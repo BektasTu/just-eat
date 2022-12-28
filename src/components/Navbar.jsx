@@ -23,7 +23,7 @@ const Navbar = () => {
           Just <span className="font-bold">Eat</span>
         </h1>
         <div className="hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]">
-          <p className="bg-black text-white rounded-full p-2">Liefern</p>
+          <p className="bg-black text-white rounded-full p-2">Lieferung</p>
           <p className="p-2">Abholen</p>
         </div>
       </div>
@@ -79,7 +79,7 @@ const Navbar = () => {
             </li>
             <li className="text-xl py-4 flex">
               <AiFillTag size={25} className="mr-4" />
-              Aktionen
+              Sonderangebote
             </li>
             <li className="text-xl py-4 flex">
               <BsFillSaveFill size={25} className="mr-4" />
