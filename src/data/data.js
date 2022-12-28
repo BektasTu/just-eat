@@ -150,31 +150,31 @@ export const categories = [
   },
   {
     id: 4,
-    name: "Indian",
+    name: "Indisch",
     image:
       "https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Indian_BrowseHome@3x.png",
   },
   {
     id: 5,
-    name: "Latest Deals",
+    name: "Neuste Angebote",
     image:
       "https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Deals_BrowseHome@3x.png",
   },
   {
     id: 6,
-    name: "Restaurant Rewards",
+    name: "Prämien",
     image:
       "https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/RestoRewards_BrowseHome@3x.png",
   },
   {
     id: 7,
-    name: "Best Overall",
+    name: "Beste Gesamtwertung",
     image:
       "https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/TopEats_Browse%20Home@3x.png",
   },
   {
     id: 8,
-    name: "Shipped Free",
+    name: "Lieferung Frei Haus",
     image:
       "https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png",
   },
